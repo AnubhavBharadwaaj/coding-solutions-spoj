@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1484591638 source:f:\software1\life_the_universe_blah_blah\main.cpp
+	<vector>
+	<algorithm>
+	<iostream>
+	<string>
+	<cstdio>
+
